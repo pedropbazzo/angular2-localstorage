@@ -1,4 +1,4 @@
-# Angular2 @LocalStorage
+# Angular2 @LocalStorage 
 
 This little Angular2/typescript decorator makes it super easy to save and restore *automatically* a variable state in your
 directive (class property) using HTML5' LocalStorage.
